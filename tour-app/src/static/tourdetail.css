@@ -1,0 +1,17 @@
+.font{
+    font-family: ui-sans-serif;
+}
+
+.cr > img{
+    height: 400px !important;
+}
+
+.name{
+    border-bottom: 1px solid #e0e0e0;
+    width: 100%;
+    
+    font-size: 40px;
+    font-weight: 500;
+    color: #2d4271;
+
+}
